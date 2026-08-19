@@ -1,7 +1,7 @@
 # Ex-1_INSTALLING-AND-RUNNING-APPLICATIONS-ON-ANDROID-STUDIO
 even_term_ii_2025-26
-## NAME: Vembarasan P
-## Register number: 212223220123
+## NAME: Manisha M 
+## Register number: 212224220061
 
 # Android Studio Installation and Running Applications
 
